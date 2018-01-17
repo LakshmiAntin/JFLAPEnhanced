@@ -1,0 +1,1 @@
+Strings over the alphabet {0, 1} that do not contain both 0 and 1 (i.e. they are purely 0's or purely 1's).

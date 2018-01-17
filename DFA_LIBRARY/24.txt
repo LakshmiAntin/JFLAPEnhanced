@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b,c} with zero or more a's, followed immediately by zero or more b's, followed immediately by zero or more c's.

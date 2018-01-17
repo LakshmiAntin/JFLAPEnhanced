@@ -1,0 +1,1 @@
+Strings over {a,b} in which both the number of a's and b's are odd.

@@ -1,0 +1,1 @@
+Strings over the alphabet {0, 1} with an even number of 0's, and with no '1' appearing between any two 0's.

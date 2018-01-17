@@ -1,0 +1,1 @@
+Strings over the alphabet {a, b, c} with at least 3 occurences of any letter other than 'a' (i.e., 'b' or 'c').

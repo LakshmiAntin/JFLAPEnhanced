@@ -1,0 +1,1 @@
+Binary Strings do not contain a 0 that is preceeded by 1 and succeeded by a 1.

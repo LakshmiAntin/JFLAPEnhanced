@@ -1,0 +1,1 @@
+Strings over the alphabet {0, 1} that either start with 0 and have odd length OR start with 1 and have even length.

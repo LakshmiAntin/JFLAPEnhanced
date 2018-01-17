@@ -1,0 +1,1 @@
+Strings over {a,b} whose length is a multiple of 2 but not of 3.

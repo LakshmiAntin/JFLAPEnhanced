@@ -1,0 +1,1 @@
+Strings over {a,b} where the number of a's never exceeds the number of b's by more than 3 and vice versa.

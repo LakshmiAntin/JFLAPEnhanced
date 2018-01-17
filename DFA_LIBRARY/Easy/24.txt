@@ -1,0 +1,1 @@
+Strings over {a,b,c} of the form a*b*c*.

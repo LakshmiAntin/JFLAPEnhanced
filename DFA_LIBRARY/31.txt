@@ -1,0 +1,1 @@
+Strings over the alphabet {0,1} that start with a 1, followed by zero or more 0's, followed by exactly two more 1's.

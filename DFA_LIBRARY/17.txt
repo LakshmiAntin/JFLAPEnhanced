@@ -1,0 +1,1 @@
+Strings over the alphabet {0, 1} that contain neither 00 nor 11.

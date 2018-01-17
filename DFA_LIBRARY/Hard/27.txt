@@ -1,0 +1,1 @@
+Strings over {a,b} that are of the form aawbb where w can be any string over {a,b}.

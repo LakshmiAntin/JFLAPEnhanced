@@ -1,0 +1,1 @@
+Strings over the alphabet {a, b} with atleast two consecutive a's.

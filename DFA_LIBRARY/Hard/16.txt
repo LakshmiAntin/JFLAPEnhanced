@@ -1,0 +1,1 @@
+Strings over {a,b} that contain runs of length not less than 3. A run is consecutive occurence of the same symbol.

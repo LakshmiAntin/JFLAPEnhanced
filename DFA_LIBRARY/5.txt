@@ -1,0 +1,1 @@
+Strings over the alphabet {0, 1} whose second letter from the front is 0.

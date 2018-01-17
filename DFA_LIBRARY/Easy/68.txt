@@ -1,0 +1,1 @@
+Binary Strings that do not contain a run of length 3. A run is consecutive occurence of the same symbol.

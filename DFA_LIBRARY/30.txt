@@ -1,0 +1,1 @@
+Strings over the alphabet {0,1} that consist of the pattern 0110 repeated zero or more times.

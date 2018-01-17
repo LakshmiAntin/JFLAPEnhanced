@@ -1,0 +1,1 @@
+Strings over {a,b} having runs of length less than 4.

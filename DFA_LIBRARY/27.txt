@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} containing 3 or more a's.

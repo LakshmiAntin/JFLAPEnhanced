@@ -1,0 +1,1 @@
+Binary Strings that are 4 times an odd number (i.e. ends with 100).

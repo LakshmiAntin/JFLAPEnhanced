@@ -1,0 +1,1 @@
+Strings over {a,b} that are palindromes of length 5.

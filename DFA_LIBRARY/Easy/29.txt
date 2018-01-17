@@ -1,0 +1,1 @@
+Strings over {a,b} of the form a^n where the value of n is 2 or an odd number.

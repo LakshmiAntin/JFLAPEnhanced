@@ -1,0 +1,1 @@
+Binary Strings that contains 10101.

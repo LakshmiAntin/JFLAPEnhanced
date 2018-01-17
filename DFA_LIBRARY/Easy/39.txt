@@ -1,0 +1,1 @@
+Strings over {a,b} having some a's followed by some b's, total length being a multiple of 3.

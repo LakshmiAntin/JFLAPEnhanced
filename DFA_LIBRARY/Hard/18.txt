@@ -1,0 +1,1 @@
+Strings over {a,b} having one run of a's of at least length 2 and one run of b's of at least length 2.

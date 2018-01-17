@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} of the form 'abwaa' where w is any string over {a,b}.

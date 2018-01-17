@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} contanining no b's and n a's, where n is 2 or n is an odd number.

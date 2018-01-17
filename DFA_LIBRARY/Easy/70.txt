@@ -1,0 +1,1 @@
+Binary Strings that end with contain 010 and do not have any leadng 0s.

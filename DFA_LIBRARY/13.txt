@@ -1,0 +1,1 @@
+Strings over the alphabet {a, b} with zero or more a's followed by an odd number of b's.

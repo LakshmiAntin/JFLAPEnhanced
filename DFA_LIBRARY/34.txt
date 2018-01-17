@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} that are palindromes of length 3.

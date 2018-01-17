@@ -1,0 +1,1 @@
+Strings over {a,b} of the form a^n where n>0 and n!=3.

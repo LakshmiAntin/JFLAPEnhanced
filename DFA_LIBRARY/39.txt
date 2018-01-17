@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} whose length is a multiple of 3, which have zero or more a's followed by zero or more b's.

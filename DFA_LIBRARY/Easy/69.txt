@@ -1,0 +1,1 @@
+Binary Strings that contain exactly three 1s and do not have any leading 0s.

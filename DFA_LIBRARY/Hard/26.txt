@@ -1,0 +1,1 @@
+Binary Strings that is a multiple of 32.

@@ -1,0 +1,1 @@
+Strings over {a,b} that contains some a's followed by exactly 3 b's.

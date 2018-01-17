@@ -1,0 +1,1 @@
+Strings over {a,b} of the form a^n where n is a multiple of 3 or 4.

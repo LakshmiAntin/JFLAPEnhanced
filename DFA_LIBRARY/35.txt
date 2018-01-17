@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} where each odd position in the string contains an 'a' (first letter of the string is position 1, second letter is position 2, etc.).

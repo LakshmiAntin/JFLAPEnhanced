@@ -1,0 +1,1 @@
+Strings over {a,b} that contain at least 2 a's and not more than 2 b's.

@@ -1,0 +1,1 @@
+Strings over {a,b} where a is at odd positions.

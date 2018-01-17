@@ -1,0 +1,1 @@
+Strings over the alphabet {a,b} contanining no b's and n a's, where n > 0 and n is NOT equal to 3.

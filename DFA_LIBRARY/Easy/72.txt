@@ -1,0 +1,1 @@
+Binary Strings that contain at least one 1 in the first 4 symbols.

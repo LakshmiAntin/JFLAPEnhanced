@@ -1,0 +1,1 @@
+Strings over the alphabet {0,1} where each occurrence of 01 is followed immediately by 11.
